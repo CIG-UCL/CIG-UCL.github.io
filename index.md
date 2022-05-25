@@ -27,5 +27,5 @@ has_toc: false
 
 ## Alumni
 
--
+- <img src="/headshots/ross_face.JPG" alt="@rosscallaghan" height="50" width="50" /> [Ross Callaghan](https://rcallagh.github.io/) PhD graduate who created ConFiG, a tool to generate realistic white matter numerical phantoms for diffusion MRI simulations. Currently working for [Ainostics](https://www.ainostics.com) 
 
