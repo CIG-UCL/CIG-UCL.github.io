@@ -29,7 +29,12 @@ has_toc: false
    </li>
 </ul>
 
-- <img src="/headshots/toby-face.jpg" alt="@TobyUCL" height="50" width="50" /> [Tobias (Toby) Goodwin-Allcock](https://TobyUCL.github.io/) develops learning networks to improve dMRI parameter estimations
+<ul>
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="/headshots/toby-face.jpg" alt="@TobyUCL" height="50" width="50" style=""/>
+      <p>  &nbsp; <a href="https://TobyUCL.github.io/">Tobias (Toby) Goodwin-Allcock</a> develops learning networks to improve dMRI parameter estimations. </p>
+   </li>
+</ul>
 
 ## Alumni
 
