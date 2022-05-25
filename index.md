@@ -18,7 +18,7 @@ has_toc: false
 
 ## Post-doctoral researchers
 
-- <img src="/TBCirclePhoto.jpg" alt="@TJPBray" height="50" width="50" /> [Tim Bray](https://TJPBray.github.io/) radiologist using computational techniques for quantitative MRI
+- <img src="/TBCirclePhoto.jpeg" alt="@TJPBray" height="50" width="50" /> [Tim Bray](https://TJPBray.github.io/) radiologist using computational techniques for quantitative MRI
 
 ## PhD students
 
