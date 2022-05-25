@@ -20,7 +20,7 @@ has_toc: false
 
 ## PhD students
 
-- <img src="/sean_face.jpeg" alt="@seancepstein" height="100" width="100" /> [Sean Epstein](https://seancepstein.github.io/) applies deep learning to medical imaging inverse problems
+- <img src="/sean_face.jpeg" alt="@seancepstein" height="50" width="50" /> [Sean Epstein](https://seancepstein.github.io/) applies deep learning to medical imaging inverse problems
 
 ## Alumni
 
