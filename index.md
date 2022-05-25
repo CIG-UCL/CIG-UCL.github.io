@@ -25,7 +25,7 @@ has_toc: false
 <ul>
    <li style="display: flex; justify-content: center; align-items: center">
       <img src="/headshots/sean_face.jpeg" alt="@seancepstein" height="50" width="50" style=""/>
-      <p> [Sean Epstein](https://seancepstein.github.io/) applies deep learning to medical imaging inverse problems. </p>
+      <p>  <a href="https://seancepstein.github.io/">Sean Epstein</a> applies deep learning to medical imaging inverse problems. </p>
    </li>
 </ul>
 
