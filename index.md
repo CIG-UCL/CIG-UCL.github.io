@@ -25,7 +25,7 @@ has_toc: false
 
 <ul>
    <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="/headshots/chris-face.jpeg" alt="@csparker" height="50" width="50" style=""/>
+      <img src="/headshots/chris-face.png" alt="@csparker" height="50" width="50" style=""/>
       <p> <a href="https://csparker.github.io/">Christopher Parker</a> develops and applies disease progression models to stage Alzheimer's disease neurodegeneration. </p>
    </li>
 </ul>
