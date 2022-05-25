@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-# Intro to the group
+# Computational Imaging Group
 
 Lorem ipsum.
 
