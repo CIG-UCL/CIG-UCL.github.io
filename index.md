@@ -1,9 +1,22 @@
 ---
 layout: default
-title: seancepstein
+title: CIG-UCL
 nav_order: 1
 has_children: true
 has_toc: false
 ---
 
-CIG group main page.
+# Intro to the group
+
+# People
+
+## Faculty
+
+## Post-doctoral researchers
+
+## PhD students
+
+- [Sean Epstein](https://seancepstein.github.io/)
+
+## Alumni
+
