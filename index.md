@@ -39,10 +39,13 @@ Lorem ipsum.
    </li>
 </ul>
 
+<ul>
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="/headshots/Ting.jpg" alt="@Tinggong" height="75" width="75" style=""/>
+      <p> <a href="https://tinggong.github.io/">Ting Gong</a> is interested in developing microstructure imaging methods with MRI and machine learning. </p>
+   </li>
+</ul>
 
-- <img src="/headshots/Ting.jpg" alt="@Tinggong" height="50" width="50" /> [Ting Gong](https://tinggong.github.io//) is interested in developing microstructure imaging methods with MRI and machine learning. 
-- 
-- <img src="/headshots/Ting.jpg" alt="@Tinggong" height="75" width="75" /> [Ting Gong](https://tinggong.github.io//) is interested in developing microstructure imaging methods with MRI and machine learning. 
 
 ## PhD students
 
