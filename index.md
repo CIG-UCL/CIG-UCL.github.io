@@ -22,6 +22,13 @@ has_toc: false
 
 ## PhD students
 
+<ul>
+   <li style="display: flex; justify-content: center; align-items: center">
+      <img src="/headshots/sean_face.jpeg" alt="@seancepstein" height="50" width="50" style=""/>
+      <p> [Sean Epstein](https://seancepstein.github.io/) applies deep learning to medical imaging inverse problems </p>
+   </li>
+</ul>
+
 - <img src="/headshots/sean_face.jpeg" alt="@seancepstein" height="50" width="50" /> [Sean Epstein](https://seancepstein.github.io/) applies deep learning to medical imaging inverse problems
 - <img src="/headshots/toby-face.jpg" alt="@TobyUCL" height="50" width="50" /> [Tobias (Toby) Goodwin-Allcock](https://TobyUCL.github.io/) develops learning networks to improve dMRI parameter estimations
 
