@@ -20,6 +20,8 @@ has_toc: false
 
 - <img src="/headshots/chris-face.jpeg" alt="@csparker" height="50" width="50" /> [Christopher Parker](https://csparker.github.io/) develops and applies disease progression models to stage Alzheimer's disease neurodegeneration.
 
+- <img src="/headshots/Ting.jpg" alt="@Tinggong" height="50" width="50" /> [Ting Gong](https://tinggong.github.io//) is interested in developing microstructure imaging methods with MRI and meachine learning. 
+
 ## PhD students
 
 <ul>
