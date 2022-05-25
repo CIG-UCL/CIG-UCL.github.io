@@ -6,6 +6,8 @@ has_children: true
 has_toc: false
 ---
 
+<img src="/cig_logo.png" alt="@seancepstein" height="250" width="250"
+
 # Intro to the group
 
 # People
