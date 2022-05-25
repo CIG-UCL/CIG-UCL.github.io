@@ -32,7 +32,7 @@ Lorem ipsum.
    </li>
 </ul>
 
-- <img src="/headshots/Ting.jpg" alt="@Tinggong" height="75" width="75" /> [Ting Gong](https://tinggong.github.io//) is interested in developing microstructure imaging methods with MRI and meachine learning. 
+- <img src="/headshots/Ting.jpg" alt="@Tinggong" height="75" width="75" /> [Ting Gong](https://tinggong.github.io//) is interested in developing microstructure imaging methods with MRI and machine learning. 
 
 ## PhD students
 
