@@ -8,6 +8,8 @@ has_toc: false
 
 # Intro to the group
 
+Lorem ipsum.
+
 # People
 
 ## Faculty
