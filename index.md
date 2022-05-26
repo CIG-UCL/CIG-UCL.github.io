@@ -46,7 +46,7 @@ Lorem ipsum.
    </li>
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="/headshots/toby-face.png" alt="@TobyUCL" height="75" width="75" style=""/>
-      <p> <a href="https://TobyUCL.github.io/">Tobias (Toby) Goodwin-Allcock</a> develops learning networks to improve dMRI parameter estimations. </p>
+      <p> <a href="https://TobyUCL.github.io/">Tobias (Toby) Goodwin-Allcock</a> develops machine learning networks to improve dMRI parameter estimation. </p>
    </li>
 </ul>
 
