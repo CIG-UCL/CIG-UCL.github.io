@@ -68,7 +68,7 @@ Lorem ipsum.
 <ul>
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="/headshots/ross_face.png" alt="@rosscallaghan" height="75" width="75" style=""/>
-      <p>  <a href="https://rcallagh.github.io/">Ross Callaghan</a> PhD graduate who created ConFiG, a tool to generate realistic white matter numerical phantoms for diffusion MRI simulations. Currently working for <a href="https://www.ainostics.com"> Ainostics</a>. </p>
+      <p>  <a href="https://rcallagh.github.io/">Ross Callaghan</a> is a PhD graduate who created ConFiG, a tool to generate realistic white matter numerical phantoms for diffusion MRI simulations. Currently working for <a href="https://www.ainostics.com"> Ainostics</a>. </p>
    </li>
 </ul>
 
