@@ -6,8 +6,6 @@ has_children: false
 has_toc: false
 ---
 
-# People
-
 ## Academics
 
 <ul>
