@@ -2,7 +2,7 @@
 layout: default
 title: people
 nav_order: 1
-parent: CIG-UCL
+parent: home
 has_children: false
 has_toc: false
 ---
