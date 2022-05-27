@@ -1,8 +1,7 @@
 ---
 layout: default
 title: people
-nav_order: 1
-parent: home
+nav_order: 2
 has_children: false
 has_toc: false
 ---
