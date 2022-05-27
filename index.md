@@ -12,17 +12,18 @@ Lorem ipsum.
 
 # People
 
-## Faculty
-
-- 
-
-## Post-doctoral researchers
+## Academics
 
 <ul>
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="/headshots/TBCirclePhoto.png" alt="@TJPBray" height="75" width="75" style=""/>
       <p> <a href="https://TJPBray.github.io/">Tim Bray</a> is a radiologist using computational techniques for quantitative MRI in the body. </p>
    </li>
+</ul>
+
+## Post-doctoral researchers
+
+<ul>
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="/headshots/chris-face.png" alt="@csparker" height="75" width="75" style=""/>
       <p> <a href="https://csparker.github.io/">Christopher Parker</a> develops and applies disease progression models to stage Alzheimer's disease neurodegeneration. </p>
