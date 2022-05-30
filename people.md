@@ -30,9 +30,10 @@ has_toc: false
       <img src="headshots/Ting.png" alt="@Tinggong" height="75" width="75" style=""/>
       <p> <a href="https://tinggong.github.io/">Ting Gong</a> is interested in developing microstructure imaging methods with MRI and machine learning. </p>
    </li>
-      <li style="display: flex; justify-content: flex-start; align-items: center">
+   <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="headshots/antoine-face.png" alt="@alegouhy" height="75" width="75" style=""/>
-      <p> <a href="https://scholar.google.com/citations?user=iV_JtqIAAAAJ&hl=fr">Antoine Legouhy</a> is interested in: brain morphology, registration, atlasing (then); deep-learning registration, geometric distortion correction (now). </p> </ul>
+      <p> <a href="https://scholar.google.com/citations?user=iV_JtqIAAAAJ&hl=fr">Antoine Legouhy</a> is interested in: brain morphology, registration, atlasing (then); deep-learning registration, geometric distortion correction (now). </p> </li>
+</ul>
 
 ## PhD students
 
