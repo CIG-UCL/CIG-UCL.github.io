@@ -11,8 +11,14 @@ has_toc: false
 <ul>
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="headshots/TBCirclePhoto.png" alt="@TJPBray" height="75" width="75" style=""/>
-      <p> <a href="https://TJPBray.github.io/">Tim Bray</a> is a radiologist using computational techniques for quantitative MRI in the body. </p>
+      <p> <a href="https://TJPBray.github.io/">Tim Bray</a> is a radiologist using computational techniques for quantitative MRI. </p>
    </li>
+   
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="headshots/MHC.png" alt="@TJPBray" height="75" width="75" style=""/>
+      <p> <a href="https://www.ucl.ac.uk/medical-imaging/staff/principal-investigators/professor-margaret-hall-craggs">Margaret </a> is a radiologist using computational techniques for quantitative MRI. </p>
+   </li>
+   
 </ul>
 
 ## Post-doctoral researchers
