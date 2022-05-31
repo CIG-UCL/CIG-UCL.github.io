@@ -11,7 +11,7 @@ has_toc: false
 <ul>
      <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="headshots/MHC.png" alt="@TJPBray" height="75" width="75" style=""/>
-      <p> <a href="https://www.ucl.ac.uk/medical-imaging/staff/principal-investigators/professor-margaret-hall-craggs">Margaret Hall-Craggs </a> is a Professor of Medical Imaging, working on quantitative MRI in the bones and body. </p>
+      <p> <a href="https://www.ucl.ac.uk/medical-imaging/staff/principal-investigators/professor-margaret-hall-craggs">Margaret Hall-Craggs </a> is a radiologist and Professor of Medical Imaging with a particular interest in magnetic resonance imaging. She is a fellow and silver medal winner of the International Society for Magnetic Resonance in Medicine. </p>
    </li>
    
    <li style="display: flex; justify-content: flex-start; align-items: center">
