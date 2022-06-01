@@ -38,6 +38,10 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="headshots/antoine-face.png" alt="@alegouhy" height="75" width="75" style=""/>
       <p> <a href="https://scholar.google.com/citations?user=iV_JtqIAAAAJ&hl=fr">Antoine Legouhy</a> is interested in: brain morphology, registration, atlasing (then); deep-learning registration, geometric distortion correction (now). </p> </li>
+     
+     <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="headshots/Prabh-face.png" alt="@rabbJot" height="75" width="75" style=""/>
+      <p> <a href="https://scholar.google.co.in/citations?user=B3gkCIEAAAAJ&hl=en">Prabhjot Kaur</a> is interested in developing machine learning methods to assess and improve the quality of medical images. </p> </li>
 </ul>
 
 ## PhD students
