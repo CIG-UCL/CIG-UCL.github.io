@@ -51,6 +51,7 @@ has_toc: false
 <ul>
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="headshots/sean_face.png" alt="@seancepstein" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
       <p> <a href="https://seancepstein.github.io/">Sean Epstein</a> applies deep learning to medical imaging inverse problems. </p>
    </li>
    <li style="display: flex; justify-content: flex-start; align-items: center">
