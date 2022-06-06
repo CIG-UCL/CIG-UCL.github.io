@@ -10,9 +10,15 @@ has_toc: false
 
 <ul>
      <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/gary.png" alt="@HallCraggs" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p> <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=HZHAN50">Gary Zhang</a> is a computer scientist and Professor of Computational Imaging. He also directs the UCL EPSRC Centre for Doctoral Training in Intelligent, Integrated Imaging in Healthcare (<a href="https://www.ucl.ac.uk/intelligent-imaging-healthcare/">i4health</a>). </p>
+   </li>
+
+     <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/MHC.png" alt="@HallCraggs" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p> <a href="https://www.ucl.ac.uk/medical-imaging/staff/principal-investigators/professor-margaret-hall-craggs">Margaret Hall-Craggs </a> is a radiologist and Professor of Medical Imaging with a particular interest in magnetic resonance imaging. She is a fellow and silver medal winner of the International Society for Magnetic Resonance in Medicine. </p>
+      <p> <a href="https://www.ucl.ac.uk/medical-imaging/staff/principal-investigators/professor-margaret-hall-craggs">Margaret Hall-Craggs</a> is a radiologist and Professor of Medical Imaging with a particular interest in magnetic resonance imaging. She is a fellow and silver medal winner of the International Society for Magnetic Resonance in Medicine. </p>
    </li>
    
    <li style="display: flex; justify-content: flex-start; align-items: center">
