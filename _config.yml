@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 title: CIG-UCL
 search_enabled: false
-logo: "/cig_logo.png"
+logo: "assets/cig_logo.png"
 color_scheme: foo
