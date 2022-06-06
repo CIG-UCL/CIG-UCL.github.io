@@ -95,9 +95,15 @@ has_toc: false
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/mark.png" alt="@rosscallaghan" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p>  <a href="https://scholar.google.co.uk/citations?user=oRTMle0AAAAJ&hl=en">Mark Graham</a> is currently a Research Associate in Health Data at King's College London. He developed <a href="https://github.com/marksgraham/DW-POSSUM">DW-POSSUM</a>, a tool to simulate realistic diffusion-weighted MRI data, as part of his PhD. </p>
+   </li>
+
+   <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/ross.png" alt="@rosscallaghan" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p>  <a href="https://rcallagh.github.io/">Ross Callaghan</a> is a PhD graduate who created ConFiG, a tool to generate realistic white matter numerical phantoms for diffusion MRI simulations. Currently working for <a href="https://www.ainostics.com"> Ainostics</a>. </p>
+      <p>  <a href="https://rcallagh.github.io/">Ross Callaghan</a> is currently a research engineer at <a href="https://www.ainostics.com">Ainostics</a>. He created <a href="https://rcallagh.github.io/projects/config/">ConFiG</a>, a tool to generate realistic white matter numerical phantoms for diffusion MRI simulations, as part of his PhD. </p>
    </li>
 
 </ul>
