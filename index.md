@@ -7,7 +7,7 @@ has_toc: false
 ---
 {::options parse_block_html="true" /}
 
-<p> align="center" <img src="assets/cig_logo.png" alt="CIG" width="250" ></p>
+<p align="center"> <img src="assets/cig_logo.png" alt="CIG" width="250" ></p>
 
 # Computational Imaging Group @ UCL
 
