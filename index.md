@@ -19,6 +19,6 @@ Our vision is to make qMRI techniques clinically viable and relevant.  To do thi
 
 <br/><br/>
 
-![quantitative MRI](/assets/research/quantitative-mri-task.png)
+<p align="center"> <img src="assets/research/quantitative-mri-task.png" height="150" ></p>
 *An [example](https://seancepstein.github.io/publications/task-driven-assessment.html) of CIG's application of computational techniques to improve qMRI clinical utility*
 {: .text-center }
