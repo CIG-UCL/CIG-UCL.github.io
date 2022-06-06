@@ -11,13 +11,13 @@ has_toc: false
 <ul>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="assets/headshots/gary.png" alt="@HallCraggs" height="75" width="75" style=""/>
+      <img src="assets/headshots/gary.png" alt="@garyhuizhang" height="75" width="75" style=""/>
       <p> &nbsp; </p>
       <p> <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=HZHAN50">Gary Zhang</a> is a computer scientist and Professor of Computational Imaging. He also directs the UCL EPSRC Centre for Doctoral Training in Intelligent, Integrated Imaging in Healthcare (<a href="https://www.ucl.ac.uk/intelligent-imaging-healthcare/">i4health</a>). </p>
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="assets/headshots/MHC.png" alt="@HallCraggs" height="75" width="75" style=""/>
+      <img src="assets/headshots/MHC.png" height="75" width="75" style=""/>
       <p> &nbsp; </p>
       <p> <a href="https://www.ucl.ac.uk/medical-imaging/staff/principal-investigators/professor-margaret-hall-craggs">Margaret Hall-Craggs</a> is a radiologist and Professor of Medical Imaging with a particular interest in magnetic resonance imaging. She is a fellow and silver medal winner of the International Society for Magnetic Resonance in Medicine. </p>
    </li>
@@ -89,21 +89,33 @@ has_toc: false
 <ul>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="assets/headshots/marco.png" alt="@rosscallaghan" height="75" width="75" style=""/>
+      <img src="assets/headshots/jiaying.png" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p>  <a href="https://www.cardiff.ac.uk/people/view/2571014-palombo-marco">Marco Palombo</a> is currently UKRI Future Leaders Fellow and Senior Lecturer (Associate Professor) in microstructure imaging at Cardiff University. </p>
+      <p>  <a href="http://helab.bnu.edu.cn/jiayingzhang/">Jiaying Zhang</a> is currently an Assistant Professor at Beijing Normal University. As part of her <a href="https://discovery.ucl.ac.uk/id/eprint/10069329/">PhD work</a> at CIG, she applied the NODDI model to study neurodegenerative diseases, such as <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25309">Huntington's</a> and <a href="https://www.sciencedirect.com/science/article/pii/S0197458017301495">Alzheimer's</a> diseases. </p>
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="assets/headshots/mark.png" alt="@rosscallaghan" height="75" width="75" style=""/>
+      <img src="assets/headshots/maira.png" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p>  <a href="https://scholar.google.co.uk/citations?user=oRTMle0AAAAJ&hl=en">Mark Graham</a> is currently a Research Associate in Health Data at King's College London. He developed <a href="https://github.com/marksgraham/DW-POSSUM">DW-POSSUM</a>, a tool to simulate realistic diffusion-weighted MRI data, as part of his PhD. </p>
+      <p>  <a href="https://scholar.google.co.uk/citations?user=pGwbqjwAAAAJ&hl=en&oi=ao">Maira Tariq</a> is currently a Research Fellow at Institute of Cancer Research. As part of her <a href="https://discovery.ucl.ac.uk/id/eprint/10046378/">PhD work</a> at CIG, she developed the <a href="https://www.sciencedirect.com/science/article/pii/S1053811916000616">Bingham-NODDI model</a>. </p>
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="assets/headshots/ross.png" alt="@rosscallaghan" height="75" width="75" style=""/>
+      <img src="assets/headshots/marco.png" alt="@palombom" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p>  <a href="https://rcallagh.github.io/">Ross Callaghan</a> is currently a research engineer at <a href="https://www.ainostics.com">Ainostics</a>. He created <a href="https://rcallagh.github.io/projects/config/">ConFiG</a>, a tool to generate realistic white matter numerical phantoms for diffusion MRI simulations, as part of his PhD. </p>
+      <p>  <a href="https://www.cardiff.ac.uk/people/view/2571014-palombo-marco">Marco Palombo</a> is currently UKRI Future Leaders Fellow and Senior Lecturer in microstructure imaging at Cardiff University. During his time as a Research Associate at CIG, he pioneered a range of cutting-edge tools for studying gray matter microstructure with MRI, such as the <a href="https://www.sciencedirect.com/science/article/pii/S1053811920303220">SANDI model</a>. </p>
+   </li>
+
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/mark.png" alt="@marksgraham" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p>  <a href="https://scholar.google.co.uk/citations?user=oRTMle0AAAAJ&hl=en">Mark Graham</a> is currently a Research Associate in Health Data at King's College London. As part of his <a href="https://discovery.ucl.ac.uk/id/eprint/10047351/">PhD work</a> at CIG, he developed <a href="https://github.com/marksgraham/DW-POSSUM">DW-POSSUM</a>, a tool to simulate realistic diffusion-weighted MRI data. </p>
+   </li>
+
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/ross.png" alt="@rcallagh" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p>  <a href="https://rcallagh.github.io/">Ross Callaghan</a> is currently a research engineer at <a href="https://www.ainostics.com">Ainostics</a>. As part of his <a href="https://discovery.ucl.ac.uk/id/eprint/10145633/">PhD work</a> at CIG, he created <a href="https://rcallagh.github.io/projects/config/">ConFiG</a>, a tool to generate realistic white matter digital phantoms for diffusion MRI simulation. </p>
    </li>
 
 </ul>
