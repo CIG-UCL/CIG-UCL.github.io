@@ -17,6 +17,8 @@ Our research has a particular focus on quantitative Magnetic Resonance Imaging (
 
 Our vision is to make qMRI techniques clinically viable and relevant.  To do this, we are harnessing modern computational advances, such as deep learning, and working closely with our clinical collaborators to ensure that we target areas of real clinical importance.  Ultimately, we believe that these approaches will enable us to realise the full potential of qMRI in the clinic - delivering the most informative and reliable diagnostic data from MRI for patient care.
 
+<br/><br/>
+
 ![quantitative MRI](/assets/research/quantitative-mri-task.png)
 *An [example](https://seancepstein.github.io/publications/task-driven-assessment.html) of CIG's application of computational techniques to improve qMRI clinical utility*
 {: .text-center }
