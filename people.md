@@ -28,7 +28,7 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="headshots/chris-face.png" alt="@csparker" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p> <a href="https://csparker.github.io/">Christopher Parker</a> develops and applies disease progression models to stage Alzheimer's disease neurodegeneration. </p>
+      <p> <a href="https://csparker.github.io/about">Christopher Parker</a> develops and applies models of brain microstructure to evaluate and stage neurodegenerative disease. </p>
    </li>
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="headshots/michele-face.png" alt="@micGuerr" height="75" width="75" style=""/>
