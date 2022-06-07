@@ -7,6 +7,7 @@ has_toc: false
 ---
 
 ## Academics
+<!--- In alphabetic order by first names--->
 
 <ul>
 
@@ -31,9 +32,16 @@ has_toc: false
 </ul>
 
 ## Post-doctoral researchers
+<!--- In alphabetic order by first names--->
 
 <ul>
 
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/antoine.png" alt="@alegouhy" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p> <a href="https://scholar.google.com/citations?user=iV_JtqIAAAAJ&hl=fr">Antoine Legouhy</a> is interested in: brain morphology, registration, atlasing (then); deep-learning registration, geometric distortion correction (now). </p> 
+   </li>
+   
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/chris.png" alt="@csparker" height="75" width="75" style=""/>
       <p> &nbsp; </p>
@@ -47,26 +55,21 @@ has_toc: false
    </li>
    
    <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="assets/headshots/Ting.png" alt="@Tinggong" height="75" width="75" style=""/>
-      <p> &nbsp; </p>
-      <p> <a href="https://tinggong.github.io/">Ting Gong</a> is interested in developing microstructure imaging methods with MRI and machine learning. </p>
-   </li>
-   
-   <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="assets/headshots/antoine.png" alt="@alegouhy" height="75" width="75" style=""/>
-      <p> &nbsp; </p>
-      <p> <a href="https://scholar.google.com/citations?user=iV_JtqIAAAAJ&hl=fr">Antoine Legouhy</a> is interested in: brain morphology, registration, atlasing (then); deep-learning registration, geometric distortion correction (now). </p> 
-   </li>
-   
-   <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/prabhjot.png" alt="@rabbJot" height="75" width="75" style=""/>
       <p> &nbsp; </p>
       <p> <a href="https://scholar.google.co.in/citations?user=B3gkCIEAAAAJ&hl=en">Prabhjot Kaur </a> is interested in developing machine learning methods to assess and improve the quality of medical images. </p>
    </li>
      
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/Ting.png" alt="@Tinggong" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p> <a href="https://tinggong.github.io/">Ting Gong</a> is interested in developing microstructure imaging methods with MRI and machine learning. </p>
+   </li>
+   
 </ul>
 
 ## PhD students
+<!--- In alphabetic order by first names--->
 
 <ul>
 
@@ -85,6 +88,7 @@ has_toc: false
 </ul>
 
 ## Alumni
+<!--- In alphabetic order by first names--->
 
 <ul>
 
