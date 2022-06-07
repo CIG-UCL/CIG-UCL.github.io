@@ -76,7 +76,7 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/alistair.png" alt="@06Lamba" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p> <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=ACLAM64">AListair Lamb</a> applies deep learning and statistics to quantitative Whole-Body MRI. </p>
+      <p> <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=ACLAM64">Alistair Lamb</a> applies statistics and deep learning to quantitative Whole-Body MRI. </p>
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
