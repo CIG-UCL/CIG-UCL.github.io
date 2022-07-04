@@ -20,13 +20,13 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/MHC.png" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p> <a href="https://www.ucl.ac.uk/medical-imaging/staff/principal-investigators/professor-margaret-hall-craggs">Margaret Hall-Craggs</a> is a radiologist and Professor of Medical Imaging with a particular interest in magnetic resonance imaging. She is a fellow and silver medal winner of the International Society for Magnetic Resonance in Medicine. </p>
+      <p> <a href="https://www.ucl.ac.uk/medical-imaging/staff/principal-investigators/professor-margaret-hall-craggs">Margaret Hall-Craggs</a> is a consultant radiologist and Professor of Medical Imaging with a particular interest in magnetic resonance imaging. She is a fellow and silver medal winner of the International Society for Magnetic Resonance in Medicine (ISMRM). </p>
    </li>
    
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/TB.png" alt="@TJPBray" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p> <a href="https://TJPBray.github.io/">Tim Bray</a> is a radiologist using computational techniques for quantitative MRI. </p>
+      <p> <a href="https://TJPBray.github.io/">Tim Bray</a> is an NIHR Clinical Lecturer and honorary consultant radiologist using computational techniques for quantitative MRI. He is a junior fellow of the International Society for Magnetic Resonance in Medicine (ISMRM). </p>
    </li>
 
 </ul>
