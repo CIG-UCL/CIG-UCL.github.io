@@ -99,6 +99,12 @@ has_toc: false
 <ul>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/diliana.png" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p>  <a href="https://scholar.google.com/citations?user=_ODD5OIAAAAJ&hl=en">Diliana Pecheva</a> is currently a Postdoctoral researcher at University of California, San Diego. As part of her <a href="https://kclpure.kcl.ac.uk/portal/files/94143031/2018_Pecheva_Diliana_0726029_ethesis.pdf">PhD work</a> at CIG, she applied advanced diffusion MRI techniques to study the developing brain. </p>
+   </li>
+
+   <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/jiaying.png" height="75" width="75" style=""/>
       <p> &nbsp; </p>
       <p>  <a href="http://helab.bnu.edu.cn/jiayingzhang/">Jiaying Zhang</a> is currently an Assistant Professor at Beijing Normal University. As part of her <a href="https://discovery.ucl.ac.uk/id/eprint/10069329/">PhD work</a> at CIG, she applied the NODDI model to study neurodegenerative diseases, such as <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25309">Huntington's</a> and <a href="https://www.sciencedirect.com/science/article/pii/S0197458017301495">Alzheimer's</a> diseases. </p>
