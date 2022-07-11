@@ -21,7 +21,7 @@ has_toc: false
    </tr>
    <tr>
      <td style="border:hidden;background-color:#FFFFFF">
-     <img src="assets/headshots/ting.png" width="100">
+     <img src="assets/headshots/Ting.png" width="100">
      </td>
      <td style="border:hidden;background-color:#FFFFFF">
      <b><a href="https://github.com/CIG-UCL/DTIwithNeuralNetworkDemo">Patched-based CNN for diffusion MRI parameter estimation </a></b>
