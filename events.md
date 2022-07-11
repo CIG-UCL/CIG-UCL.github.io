@@ -5,14 +5,42 @@ nav_order: 5
 has_children: false
 has_toc: false
 ---
-
-<table style="border:hidden">
+<table style="border:hidden;background-color:#FFFFFF">
    <tr>
-     <td style="border:hidden">
+     <td style="border:hidden;background-color:#FFFFFF" colspan="2">
+       <b>CIG Project contributions to <a href="https://medicss.cs.ucl.ac.uk">MedICSS 2022</a></b>
+     </td>
+   </tr>
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF">
+     <img src="assets/headshots/michele.png" width="100">
+     </td>
+     <td style="border:hidden;background-color:#FFFFFF">
+     <b><a href="https://github.com/CIG-UCL/MedICSS_2022_microImag">Estimation of brain tissue microstructure with diffusion MRI</a></b>
+     </td>
+   </tr>
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF">
+     <img src="assets/headshots/ting.png" width="100">
+     </td>
+     <td style="border:hidden;background-color:#FFFFFF">
+     <b><a href="https://github.com/CIG-UCL/DTIwithNeuralNetworkDemo">Patched-based CNN for diffusion MRI parameter estimation </a></b>
+     </td>
+   </tr>
+</table>
+
+<table style="border:hidden;background-color:#FFFFFF">
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF" colspan="2">
+       <a href="http://cmic.cs.ucl.ac.uk/miml/index.html"><b>MIML 2022 - Microstructure Imaging Meets Machine Learning</b></a>
+     </td>
+   </tr>
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF">
         <img src="assets/events/miml2022.png" width="250" align="center">
      </td>
-     <td>
-       <a href="http://cmic.cs.ucl.ac.uk/miml/index.html">MIML 2022 - Microstructure Imaging Meets Machine Learning</a>
+     <td style="border:hidden;background-color:#FFFFFF">
+       <b>Available presentation slides</b>
        <ul>
          <li>
            <a href="assets/docs/MIML2022/talks/T01-DannyAlexander.pdf">Danny Alexander's slides</a>
