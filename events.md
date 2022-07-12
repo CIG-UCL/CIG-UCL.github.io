@@ -67,3 +67,22 @@ has_toc: false
      </td>
    </tr>
 </table>
+
+<table style="border:hidden;background-color:#FFFFFF">
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF" colspan="2">
+       <b>ISMRM 2022 - Member-Initiated Symposium <a href="https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=MIS-12">Harnessing Histology for Microstructure Imaging</a></b>
+     </td>
+   </tr>
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF">
+     <img src="assets/headshots/Ting.png" width="100">
+     </td>
+      <td style="border:hidden;background-color:#FFFFFF">
+     <img src="assets/headshots/ross.png" width="100">
+     </td>
+      <td style="border:hidden;background-color:#FFFFFF">
+     <img src="assets/headshots/marco.png" width="100">
+     </td>
+   </tr>
+</table>
