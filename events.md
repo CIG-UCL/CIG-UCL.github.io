@@ -70,8 +70,8 @@ has_toc: false
 
 <table style="border:hidden;background-color:#FFFFFF">
    <tr>
-     <td style="border:hidden;background-color:#FFFFFF" colspan="2">
-       <b>ISMRM 2022 - Member-Initiated Symposium <a href="https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=MIS-12">Harnessing Histology for Microstructure Imaging</a></b>
+     <td style="border:hidden;background-color:#FFFFFF" colspan="3">
+       <b>ISMRM 2022 - Member-Initiated Symposium: <a href="https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=MIS-12">Harnessing Histology for Microstructure Imaging</a></b>
      </td>
    </tr>
    <tr>
