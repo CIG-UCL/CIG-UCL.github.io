@@ -29,7 +29,7 @@ has_toc: false
      For funding eligibility criteria, please refer to <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/epsrc-doctoral-training-ucl-prospective-students">the relevant section of this page.</a>
      <br>
      <br>
-     Interested students shall send their up-to-date CV to me via email (gary.zhang@ucl.ac.uk) by <b>20th of July 2022</b>.
+     Interested students shall send their up-to-date CV to me via email (gary.zhang@ucl.ac.uk) by <b>1st of April 2022</b>.
      </td>
    </tr>
 </table>
