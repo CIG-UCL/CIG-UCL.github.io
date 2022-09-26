@@ -88,7 +88,13 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/toby.png" alt="@TobyUCL" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p> <a href="https://TobyUCL.github.io/">Tobias (Toby) Goodwin-Allcock</a> develops machine learning networks to improve dMRI parameter estimation. </p>
+      <p> <a href="https://TobyUCL.github.io/">Tobias (Toby) Goodwin-Allcock</a> develops machine learning networks to improve dMRI parameter estimation.           </p>
+   </li>
+   
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/aaron.png" alt="@Aaron-S98" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p>Aaron Sinclair utilises deep learning for white matter hyperintensity segmentation on MR images. </p>
    </li>
    
 </ul>
