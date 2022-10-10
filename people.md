@@ -100,7 +100,7 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/Tianqi.png" alt="@zcahtwu" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p>Tianqi Wu applies deep learning methods to MRI quality control problems. </p>
+      <p>Tianqi Wu applies machine learning methods to MRI quality control problems. </p>
    </li>
 </ul>
 
