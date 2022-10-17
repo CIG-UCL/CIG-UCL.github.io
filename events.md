@@ -13,7 +13,7 @@ has_toc: false
    </tr>
    <tr>
      <td style="border:hidden;background-color:#FFFFFF">
-        <img src="assets/events/cover.svg" width="250" align="center">
+        <img src="assets/events/cover.svg" width="500" align="center">
      </td>
    </tr>
 </table>
