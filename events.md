@@ -8,6 +8,19 @@ has_toc: false
 <table style="border:hidden;background-color:#FFFFFF">
    <tr>
      <td style="border:hidden;background-color:#FFFFFF" colspan="2">
+       <b>CIG participates to: <a href="https://cmic-ucl.github.io/CMICHACKS/">CMIC HACKS 2022</a>!</b>
+     </td>
+   </tr>
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF">
+        <img src="assets/events/cover.svg" width="250" align="center">
+     </td>
+   </tr>
+</table>
+
+<table style="border:hidden;background-color:#FFFFFF">
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF" colspan="2">
        <b>CIG Project contributions to <a href="https://medicss.cs.ucl.ac.uk">MedICSS 2022</a></b>
      </td>
    </tr>
