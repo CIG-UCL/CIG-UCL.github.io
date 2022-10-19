@@ -8,7 +8,7 @@ has_toc: false
 <table style="border:hidden;background-color:#FFFFFF">
    <tr>
      <td style="border:hidden;background-color:#FFFFFF" colspan="2">
-       <b>CIG participates to: <a href="https://cmic-ucl.github.io/CMICHACKS/">CMIC HACKS 2022</a>!</b>
+       <b>CIG co-organises <a href="https://cmic-ucl.github.io/CMICHACKS/">CMIC HACKS 2022</a>!</b>
      </td>
    </tr>
    <tr>
