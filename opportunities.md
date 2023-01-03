@@ -14,8 +14,8 @@ has_toc: false
    </tr>
    <tr>
      <td style="border:hidden;background-color:#FFFFFF" width="100">
-     <img src="assets/headshots/TB.png" width="100" align="top">
-     <img src="assets/headshots/gary.png" width="100" align="top">
+     <img src="assets/headshots/TB.png" width="100" valign="top">
+     <img src="assets/headshots/gary.png" width="100" valign="top">
      </td>
      <td style="border:hidden;background-color:#FFFFFF">
      <b>Next-generation inflammation imaging combining computational modelling and machine learning</b>
