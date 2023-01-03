@@ -36,7 +36,6 @@ These tools will allow us to quantitatively phenotype inflammation in individual
      Interested students shall send their up-to-date CV via email to Tim Bray (t.bray@ucl.ac.uk) and Gary Zhang (gary.zhang@ucl.ac.uk) by <b>23rd of January 2023</b>.
      <br>
      <br>
-     <br>
      <hr>
      </td>
    </tr>
