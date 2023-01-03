@@ -24,7 +24,6 @@ has_toc: false
      <br>
      <br>
      This project will develop a set of interlinked computational methods, with deep learning as the core technology, aiming to provide detailed, quantitative imaging assessments of inflammation. These tools will focus on (i) the generation of biologically-relevant spatial maps describing key pathophysiological processes in inflammation (ii) the extraction of biologically-meaningful summary metrics, describing the burden and type of disease in each patient and (iii) precise measurement of changes in disease over time.
-
      <br>
      <br>
      For funding eligibility criteria, please refer to <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/epsrc-doctoral-training-ucl-prospective-students">the relevant section of this page.</a>
