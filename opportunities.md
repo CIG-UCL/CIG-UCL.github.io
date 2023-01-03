@@ -23,7 +23,7 @@ has_toc: false
      This is an exciting opportunity to be considered for an EPSRC funded PhD studentship at UCL departments of Computer Science and Medicine.
      <br>
      <br>
-     This project will develop a set of interlinked computational methods, with deep learning as the core technology, aiming to provide detailed, quantitative imaging assessments of inflammation. These tools will focus on (i) the generation of biologically-relevant spatial maps describing key pathophysiological processes in inflammation (ii) the extraction of biologically-meaningful summary metrics, describing the burden and type of disease in each patient and (iii) precise measurement of changes in disease over time. ![image](https://user-images.githubusercontent.com/31040002/210394496-64ae1dd5-a617-4f5e-858c-47c33be310fd.png)
+     This project will develop a set of interlinked computational methods, with deep learning as the core technology, aiming to provide detailed, quantitative imaging assessments of inflammation. These tools will focus on (i) the generation of biologically-relevant spatial maps describing key pathophysiological processes in inflammation (ii) the extraction of biologically-meaningful summary metrics, describing the burden and type of disease in each patient and (iii) precise measurement of changes in disease over time.
 
      <br>
      <br>
