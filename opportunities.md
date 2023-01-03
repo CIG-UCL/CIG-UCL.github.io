@@ -17,32 +17,22 @@ has_toc: false
      <img src="assets/headshots/gary.png" width="100">
      </td>
      <td style="border:hidden;background-color:#FFFFFF">
-     <b>Next generation inflammation imaging using computational modelling and deep learning
+     <b>Spotting signs of damage in the brain:</b> white matter hyperintensity segmentation from MRI using deep learning
      <br>
      <br>
-     This is an exciting opportunity to be considered for an EPSRC funded PhD studentship between the UCL departments of Computer Science and Medicine.
+     This is an exciting opportunity to be considered for an EPSRC funded PhD studentship at UCL department of Computer Science.
      <br>
      <br>
-     This project aims to develop a new approach to imaging inflammation, harnessing recently advances in computational modelling and machine learning to address the key gaps in our ability to diagnose and phenotype inflammatory diseases. ![image](https://user-images.githubusercontent.com/31040002/210393418-25291e8f-11d0-4c46-8247-28975da37425.png)
-
+     This project aims to develop novel deep learning-based approaches to assess damage in the brain, and to understand its impact on brain functions, using routine MRI scans.  The damage of particular importance is the damage to white matter, brain's communication pathways; damaged white matter is known as white matter hyperintensity because it appears brighter than healthy white matter in routine MRI scans.  Current approaches to assess this, known as white matter hyperintensity segmentation, identify spatial locations and extent of the damage.  However, this information offers limited value for quantifying the nature of functional impairment.  In particular, they do not inform on the extent to which individual communication pathways supporting specific brain functions have been disrupted.  In this PhD, you will have the opportunity to develop novel approaches that address this limitation using deep learning.
      <br>
      <br>
      For funding eligibility criteria, please refer to <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/epsrc-doctoral-training-ucl-prospective-students">the relevant section of this page.</a>
      <br>
      <br>
-     Interested students shall send their up-to-date CV to me Tim Bray (t.bray@ucl.ac.uk) and Gary Zhang (gary.zhang@ucl.ac.uk) by <b>25th of January 2023</b>.
+     Interested students shall send their up-to-date CV to me via email (gary.zhang@ucl.ac.uk) by <b>1st of April 2022</b>.
      </td>
    </tr>
-</table>
-
-
-
-<table style="border:hidden;background-color:#FFFFFF">
-   <tr>
-     <td style="border:hidden;background-color:#FFFFFF" colspan="2">
-       <b>PhD openings</b>
-     </td>
-   </tr>
+   
    <tr>
      <td style="border:hidden;background-color:#FFFFFF" width="100">
      <img src="assets/headshots/gary.png" width="100">
@@ -63,4 +53,5 @@ has_toc: false
      Interested students shall send their up-to-date CV to me via email (gary.zhang@ucl.ac.uk) by <b>1st of April 2022</b>.
      </td>
    </tr>
+   
 </table>
