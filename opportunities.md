@@ -17,7 +17,7 @@ has_toc: false
      <img src="assets/headshots/TB.png" width="100">
      <img src="assets/headshots/gary.png" width="100">
      </td>
-     <td style="border:solid;background-color:#FFFFFF">
+     <td style="border:hidden;background-color:#FFFFFF">
      <b>Next-generation inflammation imaging combining computational modelling and machine learning</b>
      <br>
      <br>
@@ -37,7 +37,7 @@ These tools will allow us to quantitatively phenotype inflammation in individual
      <br>
      <br>
      <br>
-     <br>
+     <hr>
      </td>
    </tr>
    
