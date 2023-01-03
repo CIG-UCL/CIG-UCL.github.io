@@ -30,7 +30,9 @@ has_toc: false
 These tools will allow us to quantitatively phenotype inflammation in individual patients, and thus enable therapy to be tailored to individual patients for maximum benefit. The techniques will be evaluated in a unique cohort of patients with axial spondyloarthritis (axSpA), forming the first step towards development of a tool capable of comprehensive inflammation assessment in clinical care. If successful, the methods developed will be rapidly introduced into a large (n=800) multisite UK study in axSpA, offering a test-bed for translation into clinical care and, ultimately, introduction across the NHS. 
      <br>
      <br>
-     For funding eligibility criteria, please refer to <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/epsrc-doctoral-training-ucl-prospective-students">the relevant section of this page.</a>
+         For funding eligibility criteria, please see <a href=" https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-esprc-dtp-studentship#eligibility">this link.</a>    
+        
+        
      <br>
      <br>
      Interested students shall send their up-to-date CV via email to t.bray@ucl.ac.uk and gary.zhang@ucl.ac.uk by <b>23rd of January 2023</b>.
