@@ -47,7 +47,7 @@ These tools will allow us to quantitatively phenotype inflammation in individual
      <td style="border:hidden;background-color:#FFFFFF" width="100">
      <img src="assets/headshots/gary.png" width="100">
      </td>
-     <td style="border:hidden;background-color:#FFFFFF">
+     <td style="border:dashed;background-color:#FFFFFF">
      <b>Spotting signs of damage in the brain:</b> white matter hyperintensity segmentation from MRI using deep learning
      <br>
      <br>
