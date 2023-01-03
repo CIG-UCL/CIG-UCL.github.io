@@ -30,7 +30,7 @@ has_toc: false
 These tools will allow us to quantitatively phenotype inflammation in individual patients, and thus enable therapy to be tailored to individual patients for maximum benefit. The techniques will be evaluated in a unique cohort of patients with axial spondyloarthritis (axSpA), forming the first step towards development of a tool capable of comprehensive inflammation assessment in clinical care. If successful, the methods developed will be rapidly introduced into a large (n=800) multisite UK study in axSpA, offering a test-bed for translation into clinical care and, ultimately, introduction across the NHS. 
 <br>
 <br>
-<img src="assets/research/SummaryFlowchart.png" width="800">   
+<img src="assets/research/SummaryFlowchart2.png" width="800">   
 <b>Schematic illustration of the proposed next-generation inflammation imaging.</b> The project will involve technical innovations at each step in the pipeline, including (1) novel methods for generating spatial maps of tissue properties  (2) extraction of biologically-meaningful summary metrics and (3) precise measurement of changes in disease severity and type over time. Each of these steps are labelled on the schematic.
 <br>
 <br>
