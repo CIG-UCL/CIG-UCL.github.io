@@ -26,6 +26,7 @@ has_toc: false
      <br>
      This project aims to develop a new approach to imaging inflammation, harnessing recently advances in computational modelling and machine learning to address the key gaps in our ability to diagnose and phenotype inflammatory diseases. 
  <br>
+ <br>     
 Inflammation – the body’s response to harm and danger signals, which can occur inappropriately to cause pathology – is a fundamental process in human disease and causes a massive global burden of ill-health across all organ systems and in patients of all ages. Inflammatory diseases affect hundreds of millions of individuals globally, with a cost to health services and national economies of many billion pounds. Unfortunately, in clinical practice, our ability to identify and treat these diseases effectively is limited by weaknesses in existing imaging methods, which offer only indirect assessments of inflammation and are interpreted in a qualitative fashion. 
  <br>
  <br>
