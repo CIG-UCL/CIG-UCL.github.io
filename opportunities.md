@@ -31,7 +31,7 @@ These tools will allow us to quantitatively phenotype inflammation in individual
 <br>
 <br>
 <img src="assets/research/SummaryFlowchart.png" width="800">   
-**Schematic illustration of the proposed next-generation inflammation imaging.** The project will involve innovations at each step in the pipeline, including (1) novel methods for generating spatial maps of tissue properties  (2) extraction of biologically-meaningful summary metrics and (3) precise measurement of changes in disease severity and type over time. Each of these steps are labelled on the schematic.
+<b>Schematic illustration of the proposed next-generation inflammation imaging.</b> The project will involve innovations at each step in the pipeline, including (1) novel methods for generating spatial maps of tissue properties  (2) extraction of biologically-meaningful summary metrics and (3) precise measurement of changes in disease severity and type over time. Each of these steps are labelled on the schematic.
 <br>
 <br>
          For details on how to apply and funding eligibility criteria, please see <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-esprc-dtp-studentship#eligibility">this link.</a>    
