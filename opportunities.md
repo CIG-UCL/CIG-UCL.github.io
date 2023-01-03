@@ -17,7 +17,7 @@ has_toc: false
      <img src="assets/headshots/gary.png" width="100">
      </td>
      <td style="border:hidden;background-color:#FFFFFF">
-     <b>Next-generation inflammation imaging combining computational modelling and machine learning
+     <b>Next-generation inflammation imaging combining computational modelling and machine learning</b>
      <br>
      <br>
      This is an exciting opportunity to be considered for an EPSRC funded PhD studentship at UCL departments of Computer Science and Medicine.
