@@ -17,6 +17,37 @@ has_toc: false
      <img src="assets/headshots/gary.png" width="100">
      </td>
      <td style="border:hidden;background-color:#FFFFFF">
+     <b>Next generation inflammation imaging using computational modelling and deep learning
+     <br>
+     <br>
+     This is an exciting opportunity to be considered for an EPSRC funded PhD studentship between the UCL departments of Computer Science and Medicine.
+     <br>
+     <br>
+     This project aims to develop a new approach to imaging inflammation, harnessing recently advances in computational modelling and machine learning to address the key gaps in our ability to diagnose and phenotype inflammatory diseases. ![image](https://user-images.githubusercontent.com/31040002/210393418-25291e8f-11d0-4c46-8247-28975da37425.png)
+
+     <br>
+     <br>
+     For funding eligibility criteria, please refer to <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/epsrc-doctoral-training-ucl-prospective-students">the relevant section of this page.</a>
+     <br>
+     <br>
+     Interested students shall send their up-to-date CV to me Tim Bray (t.bray@ucl.ac.uk) and Gary Zhang (gary.zhang@ucl.ac.uk) by <b>25th of January 2023</b>.
+     </td>
+   </tr>
+</table>
+
+
+
+<table style="border:hidden;background-color:#FFFFFF">
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF" colspan="2">
+       <b>PhD openings</b>
+     </td>
+   </tr>
+   <tr>
+     <td style="border:hidden;background-color:#FFFFFF" width="100">
+     <img src="assets/headshots/gary.png" width="100">
+     </td>
+     <td style="border:hidden;background-color:#FFFFFF">
      <b>Spotting signs of damage in the brain:</b> white matter hyperintensity segmentation from MRI using deep learning
      <br>
      <br>
