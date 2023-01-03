@@ -33,7 +33,7 @@ These tools will allow us to quantitatively phenotype inflammation in individual
          For details on how to apply and funding eligibility criteria, please see <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-esprc-dtp-studentship#eligibility">this link.</a>    
      <br>
      <br>
-     Interested students shall send their up-to-date CV via email to Tim Bray (t.bray@ucl.ac.uk) and Gary Zhang (gary.zhang@ucl.ac.uk) by <b>23rd of January 2023</b>.
+     Interested students shall send their up-to-date CV via email to Tim Bray (t.bray@ucl.ac.uk) and Gary Zhang (gary.zhang@ucl.ac.uk) by <b>16th of January 2023</b>.
      <br>
      <br>
      <hr>
