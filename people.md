@@ -57,6 +57,12 @@ has_toc: false
 ## PhD students
 
 <ul>
+
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/cosimo.png" alt="@mr-field" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p>Cosimo Campo uses machine learning to improve the quality of clinical MRI scans for deep brain stimulation.</p>
+   </li>
    
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/Tianqi.png" alt="@zcahtwu" height="75" width="75" style=""/>
