@@ -63,6 +63,12 @@ has_toc: false
       <p> &nbsp; </p>
       <p><a href="https://cosimocampo.dev/">Cosimo Campo</a> uses machine learning to improve the quality of clinical MRI scans for deep brain stimulation.</p>
    </li>
+
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/louise.png" alt="@louisebaron" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p>Louise Baron develops deep generative models to synthesise PET from multimodal MRI for Alzheimer’s disease. </p>
+   </li>
    
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/Tianqi.png" alt="@zcahtwu" height="75" width="75" style=""/>
