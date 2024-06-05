@@ -7,7 +7,6 @@ has_toc: false
 ---
 
 ## Academics
-<!--- In alphabetic order by first names--->
 
 <ul>
 
@@ -32,7 +31,6 @@ has_toc: false
 </ul>
 
 ## Post-doctoral researchers
-<!--- In alphabetic order by first names--->
 
 <ul>
 
@@ -57,7 +55,6 @@ has_toc: false
 </ul>
 
 ## PhD students
-<!--- In alphabetic order by first names--->
 
 <ul>
    
@@ -88,7 +85,6 @@ has_toc: false
 </ul>
 
 ## Alumni
-<!--- In alphabetic order by first names--->
 
 <ul>
 
