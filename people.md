@@ -69,6 +69,12 @@ has_toc: false
       <p> &nbsp; </p>
       <p>Louise Baron develops deep generative models to synthesise PET from multimodal MRI for Alzheimer’s disease. </p>
    </li>
+
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/giulio.png" alt="@giuliominore" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p>Giulio Minore develops deep learning-enabled quantitative MRI tools to characterise inflammation.</p>
+   </li>
    
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/Tianqi.png" alt="@zcahtwu" height="75" width="75" style=""/>
