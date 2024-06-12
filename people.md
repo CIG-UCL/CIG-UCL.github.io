@@ -151,7 +151,7 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/diliana.png" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p>  <a href="https://scholar.google.com/citations?user=_ODD5OIAAAAJ&hl=en">Diliana Pecheva</a> is currently a Postdoctoral researcher at University of California, San Diego. As part of her <a href="https://kclpure.kcl.ac.uk/portal/files/94143031/2018_Pecheva_Diliana_0726029_ethesis.pdf">PhD work</a> at CIG, she applied advanced diffusion MRI techniques to study the developing brain. </p>
+      <p>  <a href="https://profiles.ucsd.edu/diliana.pecheva">Diliana Pecheva</a> is currently a research scientist at University of California, San Diego. As part of her <a href="https://kclpure.kcl.ac.uk/portal/files/94143031/2018_Pecheva_Diliana_0726029_ethesis.pdf">PhD work</a> at CIG, she applied advanced diffusion MRI techniques to study the developing brain. </p>
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
