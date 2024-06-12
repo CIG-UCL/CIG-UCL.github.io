@@ -109,7 +109,7 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/sean.png" alt="@seancepstein" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p> <a href="https://seancepstein.github.io/">Sean Epstein</a> is currently an Asset Manager with EFG Asset Management (UK) Ltd. Sean recently completed his PhD at CIG. As part of his <a href="https://discovery.ucl.ac.uk/id/eprint/10176656/">PhD work</a>, he developed and validated task-driven assessment of quantitative MRI protocols. He also developed a novel strategy for quantitative MRI parameter estimation using deep learning. </p>
+      <p> <a href="https://seancepstein.github.io/">Sean Epstein</a> is currently works at EFG Asset Management (UK) Ltd. Sean recently completed his PhD at CIG. As part of his <a href="https://discovery.ucl.ac.uk/id/eprint/10176656/">PhD work</a>, he developed and validated task-driven assessment of quantitative MRI protocols. He also developed a novel strategy for quantitative MRI parameter estimation using deep learning. </p>
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
