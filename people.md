@@ -157,7 +157,7 @@ has_toc: false
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/jiaying.png" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p>  <a href="http://helab.bnu.edu.cn/jiayingzhang/">Jiaying Zhang</a> is currently an Assistant Professor at Beijing Normal University. As part of her <a href="https://discovery.ucl.ac.uk/id/eprint/10069329/">PhD work</a> at CIG, she applied the NODDI model to study neurodegenerative diseases, such as <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25309">Huntington's</a> and <a href="https://www.sciencedirect.com/science/article/pii/S0197458017301495">Alzheimer's</a> diseases. </p>
+      <p>  <a href="https://teacher.bupt.edu.cn/zhangjiaying/zh_CN/index.htm">Jiaying Zhang</a> is currently a Lecturer at Beijing University of Posts and Telecommunications. As part of her <a href="https://discovery.ucl.ac.uk/id/eprint/10069329/">PhD work</a> at CIG, she applied the NODDI model to study neurodegenerative diseases, such as <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25309">Huntington's</a> and <a href="https://www.sciencedirect.com/science/article/pii/S0197458017301495">Alzheimer's</a> diseases. </p>
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
