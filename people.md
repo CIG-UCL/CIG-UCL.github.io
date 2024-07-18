@@ -93,23 +93,23 @@ has_toc: false
       <p> &nbsp; </p>
       <p> <a href="https://06lamba.github.io/">Alistair Lamb</a> applies statistics and deep learning to quantitative Whole-Body MRI. </p>
    </li>
-   
-   <li style="display: flex; justify-content: flex-start; align-items: center">
-      <img src="assets/headshots/toby.png" alt="@TobyUCL" height="75" width="75" style=""/>
-      <p> &nbsp; </p>
-      <p> <a href="https://TobyUCL.github.io/">Tobias (Toby) Goodwin-Allcock</a> develops machine learning networks to improve dMRI parameter estimation.           </p>
-   </li>
 
 </ul>
 
 ## Alumni
 
 <ul>
+   
+   <li style="display: flex; justify-content: flex-start; align-items: center">
+      <img src="assets/headshots/toby.png" alt="@TobyUCL" height="75" width="75" style=""/>
+      <p> &nbsp; </p>
+      <p> <a href="https://TobyUCL.github.io/">Tobias (Toby) Goodwin-Allcock</a> is currently a Postdoctoral researcher at Ohio State University. Toby recently completed his PhD at CIG. As part of his PhD work, he developed machine learning networks to improve diffusion MRI parameter estimation.</p>
+   </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
       <img src="assets/headshots/sean.png" alt="@seancepstein" height="75" width="75" style=""/>
       <p> &nbsp; </p>
-      <p> <a href="https://seancepstein.github.io/">Sean Epstein</a> is currently works at EFG Asset Management (UK) Ltd. Sean recently completed his PhD at CIG. As part of his <a href="https://discovery.ucl.ac.uk/id/eprint/10176656/">PhD work</a>, he developed and validated task-driven assessment of quantitative MRI protocols. He also developed a novel strategy for quantitative MRI parameter estimation using deep learning. </p>
+      <p> <a href="https://seancepstein.github.io/">Sean Epstein</a> currently works at EFG Asset Management (UK) Ltd. Sean recently completed his PhD at CIG. As part of his <a href="https://discovery.ucl.ac.uk/id/eprint/10176656/">PhD work</a>, he developed and validated task-driven assessment of quantitative MRI protocols. He also developed a novel strategy for quantitative MRI parameter estimation using deep learning. </p>
    </li>
 
    <li style="display: flex; justify-content: flex-start; align-items: center">
